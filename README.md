@@ -1,11 +1,11 @@
 # Automate
 Automate project simulates automate machine with spring MVC project.
 ##  ##
-In these project, you found implementatiion of two GOF Patterns. These patterns : 
+In these project, you found implementation of two GOF Patterns. These patterns : 
 >* Factory Pattern
 >* State Pattern
 
-While implementing these patterns, Spring-boot abilities are used as much as can in project. For examples, when changing a state to another state, I took advantage of Spring beans. ___
+While implementing these patterns, Spring-boot abilities are used as much as possible in project. For examples, when changing a state to another state, I took advantage of Spring beans. ___
 
 For example:
 
